@@ -123,9 +123,7 @@ main {
     display: flex;
     align-items: center;
     margin-bottom: 130px;
-    background-image:
-        background-position: absolute;
-}
+    }
 
 .call-to-action-content h1 {
     color: #fff;
